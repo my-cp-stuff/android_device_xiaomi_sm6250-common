@@ -144,5 +144,5 @@ persist.sys.wfd.virtual=0
 # Havoc specific props
 ro.havoc.device.name=Xiaomi Redmi Note 9(S/Pro/ProMax)/Poco M2 Pro
 ro.havoc.group.url=https://t.me/havoc_miatollofficial
-ro.havoc.maintainer=Sairam Majgaonkar
-ro.havoc.maintainer.username=Sairam60
+ro.havoc.maintainer=Erick Eagle
+ro.havoc.maintainer.username=NBD_ERICK
