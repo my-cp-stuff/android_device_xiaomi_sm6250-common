@@ -417,3 +417,7 @@ PRODUCT_SOONG_NAMESPACES += \
 
 # MiuiCamera
 $(call inherit-product, vendor/xiaomi/miuicamera/config.mk)
+
+# Remove Packages
+PRODUCT_PACKAGES += \
+    RemovePackages
